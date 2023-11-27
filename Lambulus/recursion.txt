@@ -1,0 +1,11 @@
+(λf n m. (AND (ZERO n) (ZERO m)) 1 (
+            (λxy. (OR (ZERO n) (ZERO m))  x y)
+                    (
+                        ( ZERO n (+ m (f n (- m 1)) ) (+ n (f (- n 1) m )))
+                    )
+                    (
+                        +
+                        (f n (- m 1))
+                        (f (- n 1) m)
+                    )
+))

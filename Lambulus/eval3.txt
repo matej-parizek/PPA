@@ -1,0 +1,5 @@
+(λp. p p p)((λa. c a l) ((λk. k k) ((λi.i) o)))
+(λp. p p p)((λa. c a l) ((λk. k k) o))
+(λp. p p p)((λa. c a l) (o o))
+(λp. p p p)(c (o o) l)
+c (o o) l (c (o o) l) (c (o o) l)

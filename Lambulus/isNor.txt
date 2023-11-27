@@ -1,0 +1,1 @@
+(λ x t f . x (λ t f . t) (λ t f . t) (λ t f . t) (λ t f . f) (λ t f . t) ( x (λ t f . f) (λ t f . f) (λ t f . f) (λ t f . t) ) (λ t f . t) ( x (λ t f . f) (λ t f . t) (λ t f . t) (λ t f . f) (λ t f . t) ( x (λ t f . t) (λ t f . f) (λ t f . t) (λ t f . f) ) ) f t)

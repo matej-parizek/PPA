@@ -1,0 +1,4 @@
+(λ y x x . x ( x y y ) x) ( y x ) ( x x )
+(λ y u v. v (v y y) v) (y x) (x x)
+(λ u v. v (v (y x) (y x)) v) (x x)
+(λ v. v (v (y x) (y x)) v)

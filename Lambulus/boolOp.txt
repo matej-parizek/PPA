@@ -1,0 +1,1 @@
+(λ x y. x (y (λt f.x y x f t) (λt f. t)) (λt f. t))

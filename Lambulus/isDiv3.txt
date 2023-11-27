@@ -1,0 +1,1 @@
+(λn.  ZERO(n (λc. ZERO (- 2 c) 0 (+ c 1)) 0 ) T F)
